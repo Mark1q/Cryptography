@@ -22,7 +22,7 @@ The Vigenere cipher is a polyalphabetic substitution cipher that uses a keyword 
 
 - **Key Parameter**: The key for the Vigenere cipher is a keyword, which is repeated to match the length of the plaintext.
 
-## Hill Cipher
+## Hill Cipher _(without source code yet)_
 
 The Hill cipher is a polygraphic substitution cipher based on linear algebra. It encrypts blocks of plaintext at a time using an invertible matrix. The size of the matrix depends on the block size chosen.
 
