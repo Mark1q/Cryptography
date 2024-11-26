@@ -22,17 +22,6 @@ The Vigenere cipher is a polyalphabetic substitution cipher that uses a keyword 
 
 - **Key Parameter**: The key for the Vigenere cipher is a keyword, which is repeated to match the length of the plaintext.
 
-## Hill Cipher _(without source code yet)_
-
-The Hill cipher is a polygraphic substitution cipher based on linear algebra. It encrypts blocks of plaintext at a time using an invertible matrix. The size of the matrix depends on the block size chosen.
-
-- **Key Parameter**: The key for the Hill cipher is a matrix. The matrix must be invertible for both encryption and decryption to be possible.
-
-
-Certainly! A README file typically doesn't support embedded images, but I can guide you on how to structure the README and where you can add images. You can include links to hosted images, and users can follow those links to view the images.
-
-Let's create a README for the Diffie-Hellman key exchange:
-
 ---
 
 ## Diffie-Hellman Key Exchange
